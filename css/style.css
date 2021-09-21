@@ -190,6 +190,7 @@ span {
 }
 
 .plus__link1 {
+  display: inline-block;
   margin: 0 0 30px 0;
   background-color: #fff;
 }
